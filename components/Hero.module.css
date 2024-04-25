@@ -1,0 +1,15 @@
+.heroContainer {
+    background-image: url('../assests/finger.png');
+    background-size: cover;
+    background-position: center;
+    height: 90vh;
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+  }
+  
+  .content {
+    /* text-align: center; */
+    z-index: 1;
+    color: white; 
+  }
