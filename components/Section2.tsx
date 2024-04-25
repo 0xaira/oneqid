@@ -6,7 +6,7 @@ export default function Section2() {
             <h2 className="text-3xl md:text-4xl lg:text-3xl font-bold text-white">Your guests upload photos of their Passport and Visa.</h2>
           </div>
           <div className="bg-gradient-to-r from-black to-zinc-900 rounded-3xl p-6 flex border border-gray-700">
-            <h2 className="text-3xl md:text-4xl lg:text-3xl font-bold text-white">Qid's AI engine extracts details like
+            <h2 className="text-3xl md:text-4xl lg:text-3xl font-bold text-white">Qid AI engine extracts details like
               Passport Number, Visa Number, Name, Country, and Photos from the images</h2>
           </div>
           <div className="bg-gradient-to-r from-black to-zinc-900 rounded-3xl p-6 flex border border-gray-700">
