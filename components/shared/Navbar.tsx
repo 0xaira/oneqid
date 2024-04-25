@@ -10,7 +10,7 @@ export default function Navbar() {
           qid
         </Link>
         <nav className="hidden items-center space-x-6 md:flex">
-          <Link className="text-gray-400 transition-colors hover:text-white" href="#">
+          <Link className="text-gray-400 transition-colors hover:text-white" href="/app">
             App
           </Link>
           <Link className="text-gray-400 transition-colors hover:text-white" href="/home/c-form-automation-for-hotels">
